@@ -1,0 +1,44 @@
+1. std::ABS.
+2. Convert array to number.
+3. Avarage using std::for_each() and funcion object.
+4. Return difference between two vector. Onw implementation and std::set_difference().
+5. Dominant using array.
+6. Own power iterative and recursive function (only odd exponent)
+7. Get words form string. CString (std::strtok) and String using vector.
+8. Is number,string or cstring a palindrom.
+9. Lonngest substring between two strings. Dynamic programming.
+10.Longest palindrom is string. Naive Approach(O(n^3), Dynamic programming(O(n^3)).
+11.Reverse array without non alphabetic chars (O(n)).
+12.Print all permutation O(n*n!). Algorithm Paradigm: Backtracking.
+13.Remove char from cstring (O(n)) and string. Own implementation and string::erase(), string::find_first_of().
+14.Common binary search: normal, lower, upper. Count elements using upper and lower. Recursive and Iterator version.
+15.Search with guard.
+16.Erese element return from std::find() in list.
+17.std::find_if() and std::find_if_not()
+18.Use std::search() to find position of
+19.Check if two strings are anagrams (O(n)). 
+20.Return index of first non repeted character in string (O(n)).
+21.Return character which most often occurs in string (O(n)).
+22.Remove duplicates from string (must be sorted). Own implementation (O(nlogn)+O(n)) and string::erase () + std::unique().
+23.Sum of number digits. Iterative and recursive.
+24.Remove charactes form first string that is in a second string(mask string).
+25.Is rotation.
+26.Majority element is array.
+27.Number is multiple of 3.
+28.Find pair in vector which is equal to given number O(n),O(R)-Range of int.
+29.Next power of two.
+30.Number of 1-bits is even. Get index of first set bit from right.
+31.Euclidean algorithm to find greatest common divisor. Lowest common multiple.
+32.Fibonacci iterative and recursive.
+33. Check if number is prime number. Print all prime number.
+34.Largest sum contiguous subarray O(n). Dynamic programming.
+35.Print prime factors of number.
+36.Encryption using consonants moving.
+
+
+Reverse bits of number
+ugly numbers
+lucky numbers
+
+
+
